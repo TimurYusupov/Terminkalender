@@ -12,7 +12,6 @@
          <div class="col-4 offset-4">
             <CalendarEntry />
          </div>
-
          <div class="col-2 offset-2">
             <div class="float-end">
                <button
